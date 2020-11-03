@@ -4,4 +4,4 @@
  Programmed as an intro to the fastai Deep Learning for Coders course. 
  Model performance is subpar as the repository is intended as a general intro to fastai. Further model optimization should be done.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ilbagov/simple-car-classifier/main?filepath=%2Fvoila%2Frender%2Fapp.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ilbagov/simple-car-classifier/main?urlpath=%2Fvoila%2Frender%2Fapp.ipynb)
